@@ -4,7 +4,7 @@
 
 Llevo varios años en el desarrollo de software, en distintos roles y estructuras. Trabajé y trabajo como desarrollador, como líder y como docente. Fundamentalmente con stack JS los últimos años.
 
-Café, mate y Gimnasia.
+Café, mate y Gimnasia 🐺💙
 
 Me pueden encontrar en <br>
 <a href="https://www.linkedin.com/in/ricardosegretin/">
