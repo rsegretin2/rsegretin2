@@ -1,6 +1,6 @@
 [Go to English version](README_en.md)
 
-### Hola Mundo
+### Hola Mundo 👋
 
 Llevo varios años en el desarrollo de software, en distintos roles y estructuras. Trabajé y trabajo como desarrollador, como líder y como docente. Fundamentalmente con stack JS los últimos años.
 
