@@ -2,9 +2,9 @@
 
 ### Hello World 👋
 
-I've been coding for a (long) while, from the back to the front and everything in-between. I've done pretty and ugly stuff, worked in big and small projects, horrible and beautiful languages and stacks. Always with coffee ☕ or mate 🧉.
+I've been coding for a (long) while, from the back to the front and the in-between. I've worked as developer, leader and teacher. Mainly around JS stacks these few last years.
 
-Currently loving NodeJS over every other environment 💚 and teaching some of it at [ComIT](https://www.comunidadit.org/)
+Coffe, mate and Gimnasia 🐺💙
 
 You can find me on<br>
 <a href="https://www.linkedin.com/in/ricardosegretin/">
