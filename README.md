@@ -2,9 +2,9 @@
 
 ### Hola Mundo
 
-Soy obrero del código hace bastante tiempo, desde el back hasta el front y todo lo del medio. Hice cosas bonitas y feas, trabajé en proyectos grandes y chicos, stacks y lenguajes hermosos y horribles. Siempre con café ☕ o mate 🧉.
+Llevo varios años en el desarrollo de software, en distintos roles y estructuras. Trabajé y trabajo como desarrollador, como líder y como docente. Fundamentalmente con stack JS los últimos años.
 
-Actualmente encantado con NodeJS por sobre cualquier otro entorno 💚 y enseñando algo de eso en [ComIT](https://www.comunidadit.org/)
+Café, mate y Gimnasia.
 
 Me pueden encontrar en <br>
 <a href="https://www.linkedin.com/in/ricardosegretin/">
